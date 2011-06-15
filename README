@@ -1,0 +1,11 @@
+Short for communication cat. A CMS for Question and Answer site for all field. Like StackOverflow and Quora. Free for anyone.
+
+Enviroment
+Linux, Apache/Nginx, PHP, MongoDB
+
+Installation
+1: Prepare the enviroment mention above.
+2: Download MongoDB and run it.
+3: Install MongoDB PHP Driver.
+4: Git and copy the source code to the web directory.
+5: Enjoy your Question & Answer Site.
